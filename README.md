@@ -3,4 +3,4 @@
   
 ![](寄.gif)
 
-![](https://github-readme-stats.vercel.app/api?username=Slouchwind)
+![](https://github-readme-stats.vercel.app/api?username=Slouchwind&theme=dark)
