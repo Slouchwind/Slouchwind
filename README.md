@@ -1,4 +1,5 @@
 <div align="center">
+<img src="./looking.jpg" align="right" height="450px"/>
 
 # 这里是Slouchwind
 正在进行的项目: [qixie](https://github.com/QixieTeam)  
