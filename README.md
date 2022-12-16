@@ -11,7 +11,6 @@
   <summary>GitHub Stats</summary>
     
   ![](https://github-readme-stats.vercel.app/api?username=Slouchwind&theme=dark)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Slouchwind)
     
 </details>
 
