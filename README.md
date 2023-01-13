@@ -10,7 +10,7 @@
 <details>
   <summary>GitHub Stats</summary>
     
-  ![](https://github-readme-stats.vercel.app/api?username=Slouchwind&theme=dark)
+  ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Slouchwind&theme=dark)
     
 </details>
 
