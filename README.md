@@ -1,7 +1,7 @@
 <div align="center">
 
 # 这里是Slouchwind
-事高一牲  
+事高中牲  
 
 <details>
   <summary>My GitHub Stats</summary>
